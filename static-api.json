@@ -1,0 +1,5 @@
+[
+  {"nama" : "USD", "informasi" : "Merupakan mata uang Amerika Serikat", "gambar" : "usd"},
+  {"nama" : "EUR", "informasi" : "Merupakan mata uang negara Uni Eropa", "gambar" : "eur"},
+  {"nama" : "IDR", "informasi" : "Merupakan mata uang Indonesia", "gambar" : "rupiah"}
+]
