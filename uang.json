@@ -1,5 +1,5 @@
 [
-  {"mataUang" : "USD (US Dollar)", "informasi" : "USD merupakan mata uang Amerika Serikat yang bernilai (100 USD = Rp. 1,496,145.00).", "gambar" : "usd"},
-  {"mataUang" : "EUR (Euro)", "informasi" : "Euro merupakan mata uang dari 20 negara Uni Eropa yang bernilai (100 EUR = Rp. 1,640,597.00).", "gambar" : "eur"},
-  {"mataUang" : "IDR (Indonesia Rupiah)", "informasi" : "IDR merupakan mata uang Indonesia dengan nilai 100 ribu rupiah merupakan nilai tertinggi uang Indonesia.", "gambar" : "rupiah"},
+  {"mataUang" : "USD (US Dollar)", "informasi" : "USD merupakan mata uang Amerika Serikat yang bernilai (100 USD = Rp. 1,496,145.00).", "gambar" : "usd.png"},
+  {"mataUang" : "EUR (Euro)", "informasi" : "Euro merupakan mata uang dari 20 negara Uni Eropa yang bernilai (100 EUR = Rp. 1,640,597.00).", "gambar" : "eur.png"},
+  {"mataUang" : "IDR (Indonesia Rupiah)", "informasi" : "IDR merupakan mata uang Indonesia dengan nilai 100 ribu rupiah merupakan nilai tertinggi uang Indonesia.", "gambar" : "rupiah.png"},
 ]
